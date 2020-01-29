@@ -18,7 +18,12 @@
 ![rJ6tkil1W0](https://user-images.githubusercontent.com/54489997/73325288-82725700-4280-11ea-92e4-e65870da0a5a.gif)
 
 ## Preview ( The one that i'm working on GUI )
+Main
+
 ![DhhA1ccVk6](https://user-images.githubusercontent.com/54489997/73324510-c4e66480-427d-11ea-836a-e670fbaeb312.gif)
+
+## Youtube Tutorial
+[Showcase](https://youtu.be/UaVNX5HXbv8) - Youtube Showcase of Habib Extreme Protector
 
 ## Path
 [Habib Extreme Protector](https://discord.gg/fgCkuP4) - Discord Server
